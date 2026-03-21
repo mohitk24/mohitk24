@@ -18,7 +18,7 @@
 
 🏫 &nbsp; I am a graduate student at **[Carnegie Mellon University](https://www.cmu.edu/)**
 
-📊 &nbsp; I am assionate about **Data Science and Analytics**
+📊 &nbsp; I am passionate about **Data Science and Analytics**
 
 My journey into data science began in the world of ⚙️ **Mechanical Engineering** — preprocessing 220K+ records from 52 sensors from centrifugal pumps 🏭, visualizing time-series events, and building an XGBoost model to predict pump failures 🎯. That hands-on experience showed me how much impact clean, thoughtful analysis could have, and I never looked back.
 
@@ -26,7 +26,7 @@ Since then, I've expanded into 🔋 **EV battery and warranty research at CMU**,
 
 Whether it's 🌍 climate forecasting across Rwandan districts, 🔍 evaluating humanitarian funds across UN projects, or 📋 optimizing microfluidic patch design — I love building data models that make an actual difference 🚀.
 
-### 🔍 Open to full-time **Data Scientist/Data Analyst** roles
+### 🔍 Open to full-time ***Data Scientist/Data Analyst*** roles
 
 ---
 
