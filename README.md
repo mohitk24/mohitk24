@@ -1,4 +1,4 @@
-## Hi 👋 I'm Mohit Karangutkar
+## Welcome to my profile! 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+CMU+🎓" alt="Typing SVG" />
@@ -6,9 +6,6 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitk24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-  <a href="https://www.linkedin.com/in/mohitkarangutkar/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
 </div>
 
 ---
