@@ -1,7 +1,7 @@
-## Welcome to my profile! 👋
+## Welcome to my profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+CMU+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+Carnegie+Mellon+University+🎓" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,7 +16,7 @@
 
 📊 &nbsp; Passionate about **Data Science and Analytics**
 
-🏒 &nbsp; Worked with the **Director of Performance Jason Jerome** at **Pittsburgh Penguins** to build a model to predict athlete advancement to pro-level
+🏒 &nbsp; Worked with the **Director of Performance [Jason Jerome](https://www.linkedin.com/in/jason-jerome-57544a41/)** at **Pittsburgh Penguins** to build a model to predict athlete advancement to pro-level
 
 🔋 &nbsp; Conducted **EV battery and warranty research** at CMU
 
@@ -27,9 +27,9 @@
 
 <div align="center">
   </a>
-  <a href="mailto:mohitkarangutkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
+  <a href="mailto:mohitkarangutkar24@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+</a>
   <a href="https://www.linkedin.com/in/mohitkarangutkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
@@ -45,7 +45,7 @@
 
 ### 🛠️ Skills
 
-**Languages**
+**Programming Languages**
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
@@ -64,8 +64,9 @@
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 
-**Data Analysis & ML**
+**Data Analysis and ML**
 
+![Statistics](https://img.shields.io/badge/Statistics-FF6F00?style=for-the-badge&logo=scipy&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge&logo=xgboost&logoColor=white)
 
@@ -83,17 +84,6 @@
 
 ---
 
-### 🚀 Featured Projects
-
-| Project | Description | Tools |
-|--------|-------------|-------|
-| 🏒 **Pittsburgh Penguins Analytics** | Predicted youth athlete advancement to pro level · 0.93 ROC-AUC · Saved $19K/yr via GCP migration | Python, Logistic Regression, ANOVA, GCP |
-| 🌍 **Rwanda Climate-Vegetation Forecasting** | Reduced RMSE from 11.68 → 8.06 across 30 districts over 15 years of monthly climate data | pandas, NumPy, scikit-learn, Pearson Correlation |
-| 🤝 **Humanitarian Aid Evaluation** | Flagged 77 high-cost projects for auditor review across 9K UN humanitarian projects | Python, IQR Outlier Detection, seaborn |
-| 🔋 **EV Battery Warranty Analysis** | Identified LFP batteries carry 16% fewer miles coverage than NMC/NCA across 34 U.S. manufacturers | Power BI, SQL, Excel |
-
----
-
 ### 📈 My Stats
 
 <div align="center">
@@ -104,7 +94,6 @@
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitk24&theme=tokyonight" alt="GitHub Streak"/>
 </div>
-
 
 ---
 
