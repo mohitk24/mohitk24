@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+Carnegie+Mellon+University+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+%40+Carnegie+Mellon+University+🎓" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -94,12 +94,12 @@ Whether it's 🌍 climate forecasting across Rwandan districts, 🔍 evaluating 
 ## 📈 My Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitk24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitk24&show_icons=true&theme=tokyonight&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitk24&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitk24&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://streak-stats.demolab.com?user=mohitk24&theme=tokyonight&hide_border=true"/>
 </div>
 
 ---
