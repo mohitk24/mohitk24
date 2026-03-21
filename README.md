@@ -1,25 +1,38 @@
 ## Welcome to my profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+Carnegie+Mellon+University+🎓" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I+am+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+Carnegie+Mellon+University+🎓" alt="Typing SVG" />
 </div>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitk24&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </div>
 
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400" alt="coding gif"/>
+</p>
+
 ---
 
 ### 🎓 About Me
 
-🏫 &nbsp; Graduate student at **Carnegie Mellon University**  
+🏫 &nbsp; I am a graduate student at **[Carnegie Mellon University](https://www.cmu.edu/)**
 
-📊 &nbsp; Passionate about **Data Science and Analytics**
+📊 &nbsp; I am assionate about **Data Science and Analytics**
 
-🏒 &nbsp; Worked with the **Director of Performance [Jason Jerome](https://www.linkedin.com/in/jason-jerome-57544a41/)** at **Pittsburgh Penguins** to build a model to predict athlete advancement to pro-level
+🏒 &nbsp; Worked with the **Director of Performance [Jason Jerome](https://www.linkedin.com/in/jason-jerome-57544a41/)** at **[Pittsburgh Penguins](https://www.pittsburghpenguinsfoundation.org/)** to build a model to predict athlete advancement to pro-level
 
 🔋 &nbsp; Conducted **EV battery and warranty research** at CMU
 
+## 🧑‍💻 About Me
+
+My journey into data science began in the world of ⚙️ **Mechanical Engineering** — preprocessing 220K+ records from 52 sensors from centrifugal pumps 🏭, visualizing time-series events, and building an XGBoost model to predict pump failures 🎯. That hands-on experience showed me how much impact clean, thoughtful analysis could have, and I never looked back.
+
+Since then, I've expanded into 🔋 **EV battery and warranty research at CMU**, where I collected and analyzed battery warranty records across 34 U.S. EV manufacturers using R and Power BI — uncovering market trends and chemistry-level coverage differences across 15 years of data (2010–2025) 🚗⚡. I've brought that same analytical rigor to 🏒 **sports performance**, working with the **Director of Sports Performance [Jason Jerome](https://www.linkedin.com/in/jason-jerome-57544a41/)** at **[Pittsburgh Penguins](https://www.pittsburghpenguinsfoundation.org/)** to build an ML model to predict youth hockey athlete advancement to pro-level.
+
+Whether it's 🌍 climate forecasting across Rwandan districts, 🔍 evaluating humanitarian funds across UN projects, or 📋 optimizing microfluidic patch design — I love building data models that make an actual difference 🚀.
+
+🔍 Open to full-time Data Scientist / Data Analyst roles
 
 ---
 
