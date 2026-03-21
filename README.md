@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi 👋 I'm Mohit Karangutkar
 
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Hi+there!+I'm+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+@+CMU+🎓" alt="Typing SVG" />
@@ -9,9 +9,6 @@
   <a href="https://www.linkedin.com/in/mohitkarangutkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="mailto:mohitkarangutkar@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
 </div>
 
 ---
@@ -21,42 +18,34 @@
 ### 🎓 About Me
 
 🏫 &nbsp; Graduate student at **Carnegie Mellon University**  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 
-📊 &nbsp; Passionate about **Data Science, Analytics & Machine Learning**
+📊 &nbsp; Passionate about **Data Science and Analytics**
 
 🏒 &nbsp; Worked with the **Director of Performance Jason Jerome** at **Pittsburgh Penguins** to build a model to predict athlete advancement to pro-level
 
 🔋 &nbsp; Conducted **EV battery and warranty research** at CMU
 
-🤖 &nbsp; Exploring **predictive modeling**, **geospatial analysis**, and **ML pipelines**
-
-📬 &nbsp; Reach me at: **mohitkarangutkar@gmail.com**
 
 ---
 
 ### 🔗 Connect with Me
 
 <div align="center">
+  <a href="mailto:mohitkarangutkar@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
   <a href="https://www.linkedin.com/in/mohitkarangutkar/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://www.instagram.com/mohit_k24">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
   <a href="https://www.kaggle.com/mohitkarangutkar">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-  <a href="https://github.com/mohitk24">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    <a href="https://www.instagram.com/mohit_k24">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
 
 ---
-
-### 🛠️ Skills
-
-**Languages & Libraries**
 
 ### 🛠️ Skills
 
@@ -109,23 +98,17 @@
 
 ---
 
-### 📈 GitHub Stats
+### 📈 My Stats
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitkarangutkar&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohitk24&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohitk24&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitkarangutkar&theme=tokyonight" alt="GitHub Streak"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitk24&theme=tokyonight" alt="GitHub Streak"/>
 </div>
 
----
-
-### 🏆 GitHub Trophies
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mohitk24&theme=tokyonight&no-frame=true&row=1&column=6" alt="Trophies"/>
-</div>
 
 ---
 
