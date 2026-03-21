@@ -10,8 +10,6 @@
 
 ---
 
-<img align="right" alt="Coding" width="380" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-
 ### 🎓 About Me
 
 🏫 &nbsp; Graduate student at **Carnegie Mellon University**  
@@ -28,6 +26,7 @@
 ### 🔗 Connect with Me
 
 <div align="center">
+  </a>
   <a href="mailto:mohitkarangutkar@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
