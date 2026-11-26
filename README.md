@@ -1,7 +1,7 @@
 ## Welcome to my profile!
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+ML;Graduate+Student+%40+Carnegie+Mellon+University" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+there!+I+am+Mohit+Karangutkar+👋;Data+Science+%7C+Analytics+%7C+AI+Engineering;Graduate+of+Carnegie+Mellon+University" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -16,24 +16,25 @@
 
 ## 🧑‍💻 About Me
 
-🏫 &nbsp; I am a graduate student at **[Carnegie Mellon University](https://www.cmu.edu/)**
+🏫 &nbsp; I graduated from **[Carnegie Mellon University](https://www.cmu.edu/)** with a Master's in Engineering Management (Analytics)
 
-📊 &nbsp; I am passionate about **Data Science and Analytics**
+📊 &nbsp; I build data systems, ML models, and AI-powered applications that go from raw data to working product
 
-My journey into data science began in the world of ⚙️ **Mechanical Engineering** — preprocessing 220K+ records from 52 sensors from centrifugal pumps 🏭, visualizing time-series events, and building an XGBoost model to predict pump failures 🎯. That hands-on experience showed me how much impact clean, thoughtful analysis could have, and I never looked back.
+My path into data science started in ⚙️ **Mechanical Engineering** — cleaning 220K+ sensor records from 52 industrial channels, running EDA across pump failure events, and building an XGBoost model that isolated the 9 highest-signal features. That project showed me how much a well-scoped model can change how engineers make decisions.
 
-Since then, I've expanded into 🔋 **EV battery and warranty research at CMU**, where I collected and analyzed battery warranty records across 34 U.S. EV manufacturers using R and Power BI — uncovering market trends and chemistry-level coverage differences across 15 years of data (2010–2025) 🚗⚡. I've brought that same analytical rigor to 🏒 **sports performance**, working with the **Director of Sports Performance [Jason Jerome](https://www.linkedin.com/in/jason-jerome-57544a41/)** at **[Pittsburgh Penguins](https://www.pittsburghpenguinsfoundation.org/)** to build an ML model to predict youth hockey athlete advancement to pro-level.
+Since then, I've worked across domains. At 🏒 **Pittsburgh Penguins**, I built an ML pipeline on 1,755 youth hockey profiles — engineered 50+ features, addressed class imbalance, and hit 93.75% holdout accuracy and a 0.984 AUC on a stratified test set, with the final product delivered to the Director of Sports Performance. At **MSA Safety**, I trained an XGBoost classifier on 81,280 rows of refrigeration telemetry to flag 6 fault types with a 0.8% false positive rate and 0% false negative rate — then containerized it with Docker and deployed to AWS EC2.
 
-Whether it's 🌍 climate forecasting across Rwandan districts, 🔍 evaluating humanitarian funds across UN projects, or 📋 optimizing microfluidic patch design — I love building data models that make an actual difference 🚀.
+On the AI side, I've built RAG pipelines with ChromaDB, deployed LLM-powered apps using the Claude API, trained CNNs on EMNIST and audio embeddings, and served multimodal inference stacks with FastAPI and Hugging Face.
 
-### 🔍 Open to full-time ***Data Scientist/Data Analyst*** roles
+Whether it's 🌍 climate forecasting for Rwandan districts, 🔍 evaluating UN humanitarian fund efficiency, or 🔋 EV battery warranty benchmarking across 34 OEMs — I like building things that give stakeholders a real answer.
+
+### 🔍 Open to full-time ***Data Analyst / Data Scientist / AI Engineer*** roles
 
 ---
 
 ## 🔗 Connect with Me
 
 <div align="center">
-  </a>
   <a href="mailto:mohitkarangutkar24@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
@@ -43,7 +44,7 @@ Whether it's 🌍 climate forecasting across Rwandan districts, 🔍 evaluating 
   <a href="https://www.kaggle.com/mohitkarangutkar">
     <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
   </a>
-    <a href="https://www.instagram.com/mohit_k24">
+  <a href="https://www.instagram.com/mohit_k24">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
 </div>
@@ -77,25 +78,28 @@ Whether it's 🌍 climate forecasting across Rwandan districts, 🔍 evaluating 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![XGBoost](https://img.shields.io/badge/XGBoost-EA4335?style=for-the-badge&logo=xgboost&logoColor=white)
 
-**Tools**
+**AI & LLMs**
 
+![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+![Claude](https://img.shields.io/badge/Claude_API-CC785C?style=for-the-badge&logo=anthropic&logoColor=white)
+![ChromaDB](https://img.shields.io/badge/ChromaDB-6C5CE7?style=for-the-badge&logo=databricks&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+
+**Tools & Deployment**
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS_EC2-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Google Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=black)
-![RStudio](https://img.shields.io/badge/RStudio-75AADB?style=for-the-badge&logo=rstudio&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
-![Word](https://img.shields.io/badge/Word-2B579A?style=for-the-badge&logo=microsoft-word&logoColor=white)
-![PowerPoint](https://img.shields.io/badge/PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
-
 
 ---
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Dev Quote"/>
-</div>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
